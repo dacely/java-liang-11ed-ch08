@@ -143,7 +143,7 @@ public class T01_Processing2DArrays
     /**
      * Return an array with the max value and the position index of max value
      * @param array array with integer values
-     * @return result[o] = max value, result[1] = index of max value
+     * @return result[0] = max value, result[1] = index of max value
      */
     public static int[] maxValueArray1D(int[] array)
     {
